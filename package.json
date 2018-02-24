@@ -1,0 +1,22 @@
+{
+  "name": "customer-records",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiwilicious/customer-records.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiwilicious/customer-records/issues"
+  },
+  "homepage": "https://github.com/Kiwilicious/customer-records#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
